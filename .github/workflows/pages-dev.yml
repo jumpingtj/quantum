@@ -28,9 +28,9 @@ jobs:
       url: https://dev.jumpingtj.github.io/quantum/
     runs-on: ubuntu-latest
     steps:
-      - name: Move branch
-        run: |
-          git checkout dev
+#       - name: Move branch
+#         run: |
+#           git checkout dev
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Pages
