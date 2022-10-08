@@ -1,0 +1,1 @@
+Photons are a [fundermental particle](fundermental-particals.html) that carry the electromagnetic force, bacicly light particles.
